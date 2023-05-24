@@ -1,4 +1,4 @@
-# Google Docs Clone
+# Google Docs Simulator
 
 > This project simulates Google Docs where different browser can view and edit the same document at the same time.
 
